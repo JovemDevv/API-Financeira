@@ -52,6 +52,7 @@ cpf: 123.456.789-00
 ````
 
 ### Atualizar Informações da Conta
+
 Endpoint: PUT /account
 
 Cabeçalhos da Solicitação:
